@@ -1,4 +1,4 @@
-# Font changer
+# colorscheme changer
 This plugin allows you to specify a colorscheme list and provides a command to cycle through it.
 
 Pairs well with [font_changer.vim](https://github.com/PyGamer0/font_changer.vim)
