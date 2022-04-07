@@ -5,7 +5,7 @@ if exists('g:loaded_colorscheme_changer') || &compatible
 endif
 let g:loaded_colorscheme_changer=1
 
-let g:colorscheme_changer_current=get(g:, 'colorscheme_changer_current', 0)
+let g:colorscheme_changer_current=get(g:, 'colorscheme_changer_current', 1)
 let g:colorscheme_changer_colors=get(g:, 'colorscheme_changer_colors', ['default'])
 
 function! ChangeColorIndex() abort
